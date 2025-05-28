@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
     <span style="background: linear-gradient(to right, #3494E6,rgb(239, 239, 239)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">Communeo Marketplace</span>
   </h1>
   
